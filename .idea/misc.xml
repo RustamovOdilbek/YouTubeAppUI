@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/border_rounded_feed.xml" value="0.21203703703703702" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/border_rounded_filter.xml" value="0.23055555555555557" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/border_rounded_time.xml" value="0.10462962962962963" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/ic_cast.xml" value="0.23055555555555557" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/ic_compass.xml" value="0.23055555555555557" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/drawable/ic_more.xml" value="0.23055555555555557" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/item_explore_view.xml" value="0.264" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/item_feed_recyc_view.xml" value="0.13171225937183384" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/item_feed_view.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/item_filter_view.xml" value="0.264" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/7 - dars/You Tube kotlin/app/src/main/res/layout/item_story_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
